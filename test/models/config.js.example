@@ -1,0 +1,7 @@
+var config = {
+	NODE_ID: 427,
+	ENV_ID: 2,
+	ENV_NAME: 'Default'
+}
+
+module.exports = config;

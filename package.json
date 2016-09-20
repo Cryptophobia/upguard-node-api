@@ -1,0 +1,35 @@
+{
+  "name": "upguard",
+  "version": "1.0.0",
+  "description": "A client to use Upguard v2 API",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cryptophobia/upguard-node-api.git"
+  },
+  "keywords": [
+    "Upguard",
+    "Node",
+    "Node.js",
+    "API",
+    "Client"
+  ],
+  "author": "Cryptophobia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Cryptophobia/upguard-node-api/issues"
+  },
+  "homepage": "https://github.com/Cryptophobia/upguard-node-api#readme",
+  "dependencies": {
+    "dotenv": "^2.0.0",
+    "promise": "^7.1.1",
+    "request": "^2.75.0"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.0.2"
+  }
+}
